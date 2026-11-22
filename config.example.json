@@ -1,4 +1,5 @@
 {
   "supabaseUrl": "https://wfmtjonhuvcqbbyoubbt.supabase.co",
-  "supabaseAnonKey": "sb_publishable_5cMG7cw16iHTO7vGm_CPJQ_c5dD3IEh"
+  "supabaseAnonKey": "sb_publishable_5cMG7cw16iHTO7vGm_CPJQ_c5dD3IEh",
+  "vapidPublicKey": ""
 }
